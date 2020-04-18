@@ -1,9 +1,4 @@
 # Iced
-[![Test Status](https://github.com/hecrj/iced/workflows/Test/badge.svg?event=push)](https://github.com/hecrj/iced/actions)
-[![Documentation](https://docs.rs/iced/badge.svg)][documentation]
-[![Crates.io](https://img.shields.io/crates/v/iced.svg)](https://crates.io/crates/iced)
-[![License](https://img.shields.io/crates/l/iced.svg)](https://github.com/hecrj/iced/blob/master/LICENSE)
-[![project chat](https://img.shields.io/badge/chat-on_zulip-brightgreen.svg)](https://iced.zulipchat.com)
 
 A cross-platform GUI library for Rust focused on simplicity and type-safety.
 Inspired by [Elm].
